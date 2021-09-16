@@ -7,7 +7,6 @@
 * Steven
 * Hanson
 
-## The objective of this project is to build a machine learning model that can identify that whether people are wearing face masks appropriately
 
 
 ### This project conducts model training based on [Create ML](https://developer.apple.com/documentation/createml).

@@ -7,7 +7,8 @@
 * Steven
 * Hanson
 
-
+## Overview
+Our intention is to build an automated face mask detection model to test whether people wearing masks appropriately. The model can be deployed in iOS system.
 
 ### This project conducts model training based on [Create ML](https://developer.apple.com/documentation/createml).
 
@@ -30,6 +31,8 @@
 ### Dataset are Labeled by using IBM's [Cloud Annotations](https://cloud.annotations.ai/buckets/alexandersurpass?location=us-standard) feature.
 
 ![IBM Cloud Annotations](https://github.com/AlexanderHe-CHAO/Markdown-Pictures/raw/main/IBM%20Cloud%20Annotations.png?raw=true)
+
+### Detailed explanation of this project is in this [Video](https://youtu.be/wXzsETLjuHY).
 
 
 

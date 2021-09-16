@@ -27,8 +27,8 @@
 
 ### Group Members：
 
-* Michael[GitHub Pages](https://github.com/O0OMichael)
-* Alex[GitHub Pages](https://github.com/AlexanderHe-CHAO)
+* [Michael](https://github.com/O0OMichael)
+* [Alex](https://github.com/AlexanderHe-CHAO)
 * Steven
 * Hanson
 

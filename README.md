@@ -1,6 +1,13 @@
 # Mask Detection based on Create ML
 
-* The objective of this project is to build a machine learning model that can identify that whether people are wearing face masks appropriately
+### Project Members：
+
+* [Michael](https://github.com/O0OMichael)
+* [Alex](https://github.com/AlexanderHe-CHAO)
+* Steven
+* Hanson
+
+## The objective of this project is to build a machine learning model that can identify that whether people are wearing face masks appropriately
 
 
 ### This project conducts model training based on [Create ML](https://developer.apple.com/documentation/createml).
@@ -25,12 +32,7 @@
 
 ![IBM Cloud Annotations](https://github.com/AlexanderHe-CHAO/Markdown-Pictures/raw/main/IBM%20Cloud%20Annotations.png?raw=true)
 
-### Group Members：
 
-* [Michael](https://github.com/O0OMichael)
-* [Alex](https://github.com/AlexanderHe-CHAO)
-* Steven
-* Hanson
 
 
 

@@ -1,6 +1,6 @@
 # Mask Detection based on Create ML
 
-### Project Members：
+### Project Collaborators：
 
 * [Michael](https://github.com/O0OMichael)
 * [Alex](https://github.com/AlexanderHe-CHAO)

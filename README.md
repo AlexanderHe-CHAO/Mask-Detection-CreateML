@@ -9,6 +9,7 @@
 
 ## Overview
 Our intention is to build an automated face mask detection model to test whether people wearing masks appropriately. The model can be deployed in iOS system.
+## Project Design
 
 ### This project conducts model training based on [Create ML](https://developer.apple.com/documentation/createml).
 

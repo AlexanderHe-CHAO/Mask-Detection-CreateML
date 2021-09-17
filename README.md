@@ -33,6 +33,8 @@ Our intention is to build an automated face mask detection model to test whether
 
 ![IBM Cloud Annotations](https://github.com/AlexanderHe-CHAO/Markdown-Pictures/raw/main/IBM%20Cloud%20Annotations.png?raw=true)
 
+### The trained model can be deplyed in iOS system using [Xcode](https://developer.apple.com/documentation/Xcode/Xcode-Cloud).
+
 ### Detailed explanation of this project is in this [Video](https://youtu.be/wXzsETLjuHY).
 
 

@@ -5,7 +5,7 @@
 * [Michael](https://github.com/O0OMichael)
 * [Alex](https://github.com/AlexanderHe-CHAO)
 * Steven
-* Hanson
+* [Hanson](https://github.com/hanson91696)
 
 ## Overview
 Our intention is to build an automated face mask detection model to test whether people wearing masks appropriately. The model can be deployed in iOS system.
